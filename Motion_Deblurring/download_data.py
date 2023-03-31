@@ -4,7 +4,7 @@
 
 ## Download training and testing data for single-image motion deblurring task
 import os
-#import gdown
+import gdown
 import shutil
 
 import argparse
